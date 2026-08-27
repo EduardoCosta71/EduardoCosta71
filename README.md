@@ -29,19 +29,19 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 # 🛠️ Tecnologias Utilizadas
 
 ### 🖥️ Back-end
-![Python](https://shields.io)
-![Flask](https://shields.io)
-![Java](https://shields.io)
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="Flask" />
+<img src="https://shields.io" alt="Java" />
 
 ### 🎨 Front-end
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="CSS3" />
 
 ### 🗄️ Banco de Dados
-![SQL Server](https://shields.io)
+<img src="https://shields.io" alt="SQL Server" />
 
 ### 📐 Design
-![Figma](https://shields.io)
+<img src="https://shields.io" alt="Figma" />
 
 
 
