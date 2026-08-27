@@ -1,62 +1,186 @@
-# Olá! Eu sou Eduardo. 👋
+# Olá, eu sou Eduardo Costa Borges 👋
 
+### 💻 Desenvolvedor | Backend
 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Cruzeiro do Sul**
+📍 São Paulo, Brasil
 
-### 👨‍💻 Quem sou eu
+---
 
-Sou um profissional na área de Desenvolvimento de Software e Web, atualmente estudante de Análise e desenvolvimento de sistemas na Universidade Cruzeiro do Sul, sou apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades e sempre em busca de novos desafios!
+## 👨‍💻 Sobre mim
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, com experiência prática através de projetos acadêmicos e pessoais.
 
+Tenho como foco o **desenvolvimento Backend**, principalmente utilizando **Python, Flask, APIs REST e bancos de dados**. Também possuo experiência com **C# e C**, conhecimentos em **Java** e fundamentos de desenvolvimento Web.
 
-### 🛠️ Linguagens e Ferramentas
+Gosto de aprender através da prática, criando sistemas e APIs e buscando evoluir constantemente como desenvolvedor.
 
-*  **Front-end:** HTML, CSS
+---
 
-*  **Back-end:** Python, Flask, Java e C - Lógica de programação e Algoritmos
+## 🛠️ Tecnologias
 
-*  **Data Base:** SQL Server 
+### 💻 Linguagens
 
-*  **Design:** Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css" />
+</p>
 
-*  **Outros:** Git, Metodologias Ágeis
+### ⚙️ Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
-
-### 🚀 Projetos em Destaque
-
-*  [Projeto Protótipo Figma - Saúde Todos](https://www.figma.com/proto/zibqQMezoSgvcEaEFlSJLx/Sa%C3%BAdeTodos?node-id=259-226&t=sYzvRVFAVCJh10vg-1&starting-point-node-id=259%3A226) - Este protótipo do figma foi criado na aula da universidade cruzeiro do sul, foi criado com base nas aulas do professor Fábio que nos ensinou os príncipios da acessibilidades, UX e UI, Heurísticas, psicologia das cores, etc.
-
-*  [Ecommerce](https://github.com/EduardoCosta71/Ecommerce-Python-SQL-Flask) - Projeto de Ecommerce base, o projeto ainda segue em andamento, porém está 70% pronto, foi feito para treinar minha lógica backend e frontend criado desde o zero.
-
-# 🛠️ Tecnologias Utilizadas
-
-### 🖥️ Back-end
-<img src="https://shields.io" alt="Python" />
-<img src="https://shields.io" alt="Flask" />
-<img src="https://shields.io" alt="Java" />
-<img src="https://shields.io" alt="C" />
-
-### 🎨 Front-end
-<img src="https://shields.io" alt="HTML5" />
-<img src="https://shields.io" alt="CSS3" />
+* Flask
+* APIs REST
+* CRUD
+* Jinja2
+* Requests
+* Autenticação e autorização
+* Integração com APIs externas
 
 ### 🗄️ Banco de Dados
-<img src="https://shields.io" alt="SQL Server" />
 
-### 📐 Design
-<img src="https://shields.io" alt="Figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+* SQL Server
+* SQLite
+* SQL
+* Relacionamentos e chaves estrangeiras
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsividade
+  
 
 
+### 🔧 Ferramentas
 
-### 📫 Como me encontrar
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
+</p>
 
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.borges1304@gmail.com)](mailto:eduardo.borges1304@gmail.com)
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eduardocostaborges)](https://linkedin.com/in/eduardocostaborges)
+## 🚀 Projetos em destaque
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/seunumerodecelular)
+### 💰 Controle de Gastos
 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/eduardocostaborges)](https://dev.to/eduardocostaborges)
+Sistema Web desenvolvido com **Python + Flask + SQL Server** para gerenciamento de despesas.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/seuperfil)
+**Principais funcionalidades:**
 
+* Cadastro, edição e exclusão de gastos
+* Listagem de despesas
+* Cálculo de total, média, maior e menor gasto
+* Registro automático de datas
+* Integração com banco de dados
+
+**Tecnologias:** Python • Flask • SQL Server • Jinja2 • HTML • CSS
+
+---
+
+### 🛒 E-commerce
+
+Aplicação Web desenvolvida com **Python e Flask**, utilizando banco de dados SQL Server.
+
+Projeto desenvolvido para praticar a construção de uma aplicação completa, trabalhando Backend, banco de dados, rotas, templates e interface Web.
+
+**Tecnologias:** Python • Flask • SQL Server • Jinja2 • HTML • CSS
+
+---
+
+### 🎮 Game API
+
+API REST desenvolvida com **Python e Flask**, utilizando operações CRUD para gerenciamento de dados.
+
+Projeto criado para praticar desenvolvimento de APIs, rotas, requisições HTTP e integração com banco de dados.
+
+**Tecnologias:** Python • Flask • REST API • CRUD • SQL
+
+---
+
+### 💊 Sistema de Controle de Farmácia
+
+Sistema desenvolvido em Python para gerenciamento de medicamentos e operações de uma farmácia.
+
+**Funcionalidades:**
+
+* Cadastro de medicamentos
+* Controle de estoque
+* Registro de vendas
+* Histórico de vendas
+* Cadastro de clientes
+
+**Tecnologias:** Python • POO • Banco de Dados
+
+---
+
+### 🎬 API de Filmes
+
+Projeto desenvolvido para praticar o consumo de uma API externa utilizando Python.
+
+**Tecnologias:** Python • Requests • API REST
+
+---
+
+### 🩺 SaúdeTodos — UX/UI
+
+Projeto acadêmico desenvolvido em **Figma**, com foco em experiência do usuário, acessibilidade e organização de interfaces.
+
+O projeto envolveu pesquisa, personas, arquitetura, prototipação, guia de estilo e avaliação da interface.
+
+**Tecnologias:** Figma • UX/UI • Acessibilidade
+
+---
+
+## 🎓 Formação
+
+### Análise e Desenvolvimento de Sistemas
+
+**Cruzeiro do Sul**
+
+Atualmente cursando ADS, com estudos envolvendo programação, banco de dados, desenvolvimento de sistemas, engenharia de software, UX/UI e desenvolvimento Web.
+
+---
+
+## 📚 Atualmente estudando
+
+* 🐍 Python e Flask
+* 🌐 Desenvolvimento de APIs REST
+* 🗄️ SQL e bancos de dados
+* ☕ Java e C
+* 🔧 Git e GitHub
+* 💻 Desenvolvimento Backend
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade na área de **Desenvolvimento de Software**, principalmente em **Backend**, para aplicar meus conhecimentos em projetos reais, adquirir experiência profissional e continuar evoluindo como desenvolvedor.
+
+---
+
+## 📫 Entre em contato
+
+<p>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Obrigado por visitar meu perfil!
