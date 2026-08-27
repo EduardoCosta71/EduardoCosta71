@@ -14,6 +14,8 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 *  **Back-end:** Python, Flask, Java - Lógica de programação
 
+*  **Data Base:** SQL Server 
+
 *  **Design:** Figma
 
 *  **Outros:** Git, Metodologias Ágeis
