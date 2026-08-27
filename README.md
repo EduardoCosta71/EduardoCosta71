@@ -34,6 +34,7 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 <img src="https://shields.io" alt="Python" />
 <img src="https://shields.io" alt="Flask" />
 <img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="C" />
 
 ### 🎨 Front-end
 <img src="https://shields.io" alt="HTML5" />
