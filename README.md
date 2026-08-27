@@ -12,7 +12,7 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 *  **Front-end:** HTML, CSS
 
-*  **Back-end:** Python, Flask, Java - Lógica de programação
+*  **Back-end:** Python, Flask, Java e C - Lógica de programação e Algoritmos
 
 *  **Data Base:** SQL Server 
 
