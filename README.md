@@ -36,7 +36,7 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/seunumerodecelular)
 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/seuperfil)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/eduardocostaborges)](https://dev.to/eduardocostaborges)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/seuperfil)
 
