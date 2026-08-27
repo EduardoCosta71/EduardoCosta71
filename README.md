@@ -22,7 +22,7 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 ### 🚀 Projetos em Destaque
 
-*  [Projeto Protótipo Figma - Saúde Todos](https://www.figma.com/proto/zibqQMezoSgvcEaEFlSJLx/Sa%C3%BAdeTodos?node-id=259-226&t=sYzvRVFAVCJh10vg-1&starting-point-node-id=259%3A226) - Breve descrição do que foi feito e tecnologias usadas.
+*  [Projeto Protótipo Figma - Saúde Todos](https://www.figma.com/proto/zibqQMezoSgvcEaEFlSJLx/Sa%C3%BAdeTodos?node-id=259-226&t=sYzvRVFAVCJh10vg-1&starting-point-node-id=259%3A226) - Este protótipo do figma foi criado na aula da universidade cruzeiro do sul, foi criado com base nas aulas do professor Fábio que nos ensinou os príncipios da acessibilidades, UX e UI, Heurísticas, psicologia das cores, etc.
 
 *  [Nome do Projeto 2](link) - Breve descrição do que foi feito e tecnologias usadas.
 
