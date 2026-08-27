@@ -32,7 +32,7 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.borges1304@gmail.com)](mailto:eduardo.borges1304@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://linkedin.com/in/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eduardocostaborges)](https://linkedin.com/in/eduardocostaborges)
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/seunumerodecelular)
 
