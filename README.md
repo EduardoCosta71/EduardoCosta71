@@ -26,8 +26,8 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 *  [Ecommerce](https://github.com/EduardoCosta71/Ecommerce-Python-SQL-Flask) - Projeto de Ecommerce base, o projeto ainda segue em andamento, porém está 70% pronto, foi feito para treinar minha lógica backend e frontend criado desde o zero.
 
-![Python](https://shields.io)
-![Java](https://shields.io)
+![Python]()
+![Java](ED8B00)
 
 
 
