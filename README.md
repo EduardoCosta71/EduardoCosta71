@@ -10,23 +10,23 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 ### 🛠️ Linguagens e Ferramentas
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
-
 *  **Front-end:** HTML, CSS
-
-<p> <img src="https://skillicons.dev/icons?i=flask" /> </p>
 
 *  **Back-end:** Python, Flask, Java e C - Lógica de programação e Algoritmos
   
-<p> <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> </p>*
-
 *  **Data Base:** SQL Server
   
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" /> </p>
-
 *  **Tecnologias:** Figma, Postman, vscode
 
 *  **Outros:** Git, Metodologias Ágeis
+
+  <p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+
+  <p> <img src="https://skillicons.dev/icons?i=flask" /> </p>
+
+  <p> <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> </p>*
+
+  <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" /> </p>
 
 
 
