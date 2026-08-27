@@ -31,6 +31,7 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 # 🛠️ Tecnologias Utilizadas
 
 ### 🖥️ Back-end
+<p> <img src="https://skillicons.dev/icons?i=flask" /> </p>
 <img src="https://shields.io" alt="Python" />
 <img src="https://shields.io" alt="Flask" />
 <img src="https://shields.io" alt="Java" />
