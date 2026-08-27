@@ -30,7 +30,7 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 ### 📫 Como me encontrar
 
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.borges1304@gmail.com)](mailto:eduardo.borges1304@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://linkedin.com/in/seuperfil)
 
