@@ -4,15 +4,15 @@
 
 ### 👨‍💻 Quem sou eu
 
-Sou um [Sua Profissão, ex: Desenvolvedor Front-end / Estudante de Engenharia de Software] apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em [área de estudo atual] e sempre em busca de novos desafios!
+Sou um profissional na área de Desenvolvimento de Software e Web, atualmente estudante de Análise e desenvolvimento de sistemas na Universidade Cruzeiro do Sul, sou apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades e sempre em busca de novos desafios!
 
 
 
 ### 🛠️ Linguagens e Ferramentas
 
-*  **Front-end:** HTML, CSS, JavaScript, React
+*  **Front-end:** HTML, CSS
 
-*  **Back-end:** Python, Node.js
+*  **Back-end:** Python, Flask, Java - Lógica de programação
 
 *  **Design:** Figma
 
