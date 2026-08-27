@@ -10,11 +10,13 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 ### 🛠️ Linguagens e Ferramentas
 
+<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+
 *  **Front-end:** HTML, CSS
 
 *  **Back-end:** Python, Flask, Java e C - Lógica de programação e Algoritmos
 
-*  **Data Base:** SQL Server 
+<p> <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> </p>*  **Data Base:** SQL Server 
 
 *  **Design:** Figma
 
