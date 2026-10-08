@@ -6,6 +6,10 @@
 
 Sou um profissional na área de Desenvolvimento de Software e Web, atualmente estudante de Análise e desenvolvimento de sistemas na Universidade Cruzeiro do Sul, sou apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades e sempre em busca de novos desafios!
 
+### Meu Portifolio
+
+[Portifolio Eduardo Costa - Clique neste link](https://eduardocosta71.github.io/Meu-Portifolio/)
+
 
 
 ### 🛠️ Linguagens e Ferramentas
