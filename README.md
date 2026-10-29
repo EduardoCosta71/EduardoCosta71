@@ -16,11 +16,11 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 *  **Front-end:** HTML, CSS
 
-*  **Back-end:** Python, Flask, Java e C - Lógica de programação e Algoritmos
+*  **Back-end:** Python, Flask, Java(básico) e C(básico) - Lógica de programação e Algoritmos
   
 *  **Data Base:** SQL Server
   
-*  **Tecnologias:** Figma, Postman, vscode
+*  **Tecnologias:** Figma, Postman, vscode, Jira
 
 *  **Outros:** Git, Metodologias Ágeis
 
@@ -57,9 +57,9 @@ Sou um profissional na área de Desenvolvimento de Software e Web, atualmente es
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eduardocostaborges)](https://linkedin.com/in/eduardocostaborges)
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/11979577678)](https://wa.me/11979577678)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/11999999999)](https://wa.me/11999999999)
 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/eduardocostaborges)](https://dev.to/eduardocostaborges)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/perkofe_)](https://instagram.com/perkofe_)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lcstdu_)](https://instagram.com/lcstdu_)
 
